@@ -1,4 +1,4 @@
-# After_Before_IA_BoraCoda29
+# After_Before_IA_BoraCodar29
 Component with a draggable slider that displays the before and after of an image
 
 
