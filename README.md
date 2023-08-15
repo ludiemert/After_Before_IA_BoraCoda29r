@@ -2,7 +2,6 @@
 Component with a draggable slider that displays the before and after of an image
 
 
-
 <strong><h1 align="center">#boraCodar - Challenge 29</h1></strong>
 
 <div align="center">
@@ -12,7 +11,7 @@ Component with a draggable slider that displays the before and after of an image
 
 # :red_haired_woman: 💻 Project
 📸 This week's challenge was to code a component with a draggable slider that displays the before and after of an image.
-Project online 🔗 [DESSE LINK](https://afterbeforeia.netlify.app/) 
+Project online 🔗 [LINK](https://afterbeforeia.netlify.app/) 
 
 
 ## 🔖 Layout
